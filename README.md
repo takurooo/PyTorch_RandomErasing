@@ -14,18 +14,18 @@ PyTorch implementation of
 Dataset CIFAR10
 
 ## Test accuracy per class
-| Class  | Acc(Random Erasing OFF) | Acc(Random Erasing ON) | 
-| ---    | ---                     | ---                    |
-| plane  | 82 %                    | 83 %(+1%)              |
-| car    | 87 %                    | 91 %(+4%)              |
-| bird   | 69 %                    | 69 %(  -)              |
-| cat    | 64 %                    | 66 %(+2%)              |
-| deer   | 75 %                    | 75 %(  -)              |
-| dog    | 64 %                    | 74 %(+10%)             |
-| frog   | 85 %                    | 85 %(  -)              |
-| horse  | 85 %                    | 84 %(-1%)              |
-| ship   | 85 %                    | 88 %(+3%)              |
-| truck  | 84 %                    | 82 %(-2%)              |
+| Class  | Random Erasing OFF | Random Erasing ON| 
+| ---    | ---                | ---              |
+| plane  | 82 %               | 83 %(+1%)        |
+| car    | 87 %               | 91 %(+4%)        |
+| bird   | 69 %               | 69 %(  -)        |
+| cat    | 64 %               | 66 %(+2%)        |
+| deer   | 75 %               | 75 %(  -)        |
+| dog    | 64 %               | 74 %(+10%)       |
+| frog   | 85 %               | 85 %(  -)        |
+| horse  | 85 %               | 84 %(-1%)        |
+| ship   | 85 %               | 88 %(+3%)        |
+| truck  | 84 %               | 82 %(-2%)        |
 
 ## Test average accuracy and loss
 |        | Random Erasing OFF | Random Erasing ON  | 
