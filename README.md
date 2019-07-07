@@ -1,6 +1,6 @@
 # PyTorch_RandomErasing
 
-PyTorch implementation of 
+Implementation of 
 [Random Erasing Data Augmentation](https://arxiv.org/pdf/1708.04896.pdf).
 
 
